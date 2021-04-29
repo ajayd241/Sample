@@ -1,6 +1,6 @@
 l=[]
 while True:
-    x=int(input("Enter a number:"))
+    x=10
     if(x<=0):
         break
     else:
