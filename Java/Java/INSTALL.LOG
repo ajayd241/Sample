@@ -1,0 +1,15 @@
+***  Installation Started 1/19/2021 12:33:16  ***
+Title: Java_8u40
+Source: C:\NCRAPPS\Provision\Applications\Install-OracleJavaRuntime8.0.400\Files\Java_8u40_MDT.EXE
+Made Dir: C:\Program Files (x86)\Java
+File Copy: C:\Program Files (x86)\Java\clearJavaCache3.bat
+RegDB Key: SOFTWARE\JavaSoft\Java Update\Policy
+RegDB Val: 0
+RegDB Name: EnableAutoUpdateCheck
+RegDB Root: 2
+RegDB Key: SOFTWARE\JavaSoft\Java Update\Policy
+RegDB Val: 0
+RegDB Name: EnableJavaUpdate
+RegDB Type: 3
+RegDB Root: 2
+RegDB Old: 1
